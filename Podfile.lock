@@ -1,0 +1,15 @@
+PODS:
+  - CardIO (5.4.1)
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - CardIO (~> 5.4.1)
+  - Masonry (~> 1.0.2)
+
+SPEC CHECKSUMS:
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: 92329af25c0b9b0f177cae2e6f4cc9556489ae7d
+
+COCOAPODS: 1.0.1
